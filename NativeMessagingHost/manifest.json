@@ -1,0 +1,9 @@
+{
+  "name": "native_test_host",
+  "description": "bla",
+  "path": "bart.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://nhmelnfjjledfgolfnefhakjbpnobchj/"
+  ]
+}
